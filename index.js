@@ -21,3 +21,4 @@ const data4 = tf.tensor1d([2,3,4,5,10]);
 // add and multiply tensors
 data3.add(data4).print();
 data3.mul(data4).print();
+data3.div(data4).print();
